@@ -1,10 +1,12 @@
-Step 1 setup a virtual environment :
+# Step 1 setup a virtual environment :
   - python3 -m venv env
   - env\Scripts\activate
   - pip install django djangorestframework
-Step 2 install django (and python):
+
+# Step 2 install django (and python):
   - pip install django djangorestframework
-Step 3 :
+
+# Step 3 :
   - python manage.py createsuperuser
   - python manage.py runserver
 
